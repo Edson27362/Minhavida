@@ -1,0 +1,27 @@
+html {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(119, 255, 0)
+    font-size: 1em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+header {
+     background-color: rgba(0, 0, 0, 0.307);
+     display: flex;
+     justify-content: space-between;
+ }
+
+.menu {
+    
+}
+
+.menu a {
+    margin-left: 20px;
+    list-style: nome;
+    text-decoration: nome;
+    color: white;
+}
+ .menu a:hover {
+    color: red;
+ }
